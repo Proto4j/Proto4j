@@ -1,6 +1,6 @@
 ### Proto4j (Protocols for Java)
 
-This small Project using the Java language contains different utility modules that provide a specific service. The `Objection` project for example can be used to serialize and de-serialize Java classes. Code provided here is free to use under the terms of the MIT-Lisence.
+This small Project using the Java language contains different utility modules that provide a specific service. The `Objection` project for example can be used to serialize and de-serialize Java classes. Code provided here is free to use under the terms of the MIT-License.
 
 - 🔭 Current Project: `proto4j-redis` A module to turn a java interface with annotations into a database worker
 - 👯 Collaborators: [@MatrixEditor](https://github.com/MatrixEditor/)
