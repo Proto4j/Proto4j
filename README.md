@@ -4,18 +4,7 @@ This small Project using the Java language contains different utility modules th
 
 - 👯 Collaborators: [@MatrixEditor](https://github.com/MatrixEditor/)
 - 💬 How to Collaborate: Open up an issue or a pull request on new features
-- 🔭 Current Project: `proto4j-redis` A module to turn a java interface with annotations into a database worker
-  - Preview:
-  ````java
-  @SQL(MySQLService.class)
-  @Validator(MySQLValidator.class)
-  public interface Storage {
-
-    @AutoType
-    @SQL.Select("select * from {table}")
-    public List<User> getUsersFromTable(@Param("table") String parameter);
-  //...
-  ````
+- 🔭 Current Project: `proto4j-swing`
 
 <!--
 **Proto4j/Proto4j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
