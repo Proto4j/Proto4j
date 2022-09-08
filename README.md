@@ -4,7 +4,7 @@ This small Project using the Java language contains different utility modules th
 
 - 👯 Collaborators: [@MatrixEditor](https://github.com/MatrixEditor/)
 - 💬 How to Collaborate: Open up an issue or a pull request on new features
-- 🔭 Current Project: `proto4j-swing`
+- 🔭 Current Project: `proto4j-xtral` (network library)
 - ⚡ All Projects:
   * [Proto4-Swing](https://github.com/Proto4j/proto4j-swing)
   * [Proto4-Redis](https://github.com/Proto4j/proto4j-redis)
