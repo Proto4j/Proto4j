@@ -4,11 +4,12 @@ This small Project using the Java language contains different utility modules th
 
 - 👯 Collaborators: [@MatrixEditor](https://github.com/MatrixEditor/)
 - 💬 How to Collaborate: Open up an issue or a pull request on new features
-- 🔭 Current Project: `proto4j-xtral` (network library)
+- 🔭 Current Project: `proto4j-msdp` (Multicast Service Discovery Protocol based on `proto4j-xtral`)
 - ⚡ All Projects:
   * [Proto4-Swing](https://github.com/Proto4j/proto4j-swing)
   * [Proto4-Redis](https://github.com/Proto4j/proto4j-redis)
   * [Proto4-Objection](https://github.com/Proto4j/proto4j-objection)
+  * [Proto4-XTral](https://github.com/Proto4j/proto4j-xtral)
 
 <!--
 **Proto4j/Proto4j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
